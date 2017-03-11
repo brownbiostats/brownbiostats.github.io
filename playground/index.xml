@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Playgrounds on Advising @ Brown Biostatistics</title>
-    <link>http://127.0.0.1:4321/playground/index.xml</link>
+    <link>http://brownbiostats.github.io/playground/index.xml</link>
     <description>Recent content in Playgrounds on Advising @ Brown Biostatistics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 10 May 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://127.0.0.1:4321/playground/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://brownbiostats.github.io/playground/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Group Meeting 6</title>
-      <link>http://127.0.0.1:4321/playground/07-group-meeting-6/</link>
+      <link>http://brownbiostats.github.io/playground/07-group-meeting-6/</link>
       <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://127.0.0.1:4321/playground/07-group-meeting-6/</guid>
+      <guid>http://brownbiostats.github.io/playground/07-group-meeting-6/</guid>
       <description>&lt;!-- BLOGDOWN-HEAD --&gt;
 
 
@@ -50,10 +50,10 @@
     
     <item>
       <title>Group Meeting 5</title>
-      <link>http://127.0.0.1:4321/playground/06-group-meeting-5/</link>
+      <link>http://brownbiostats.github.io/playground/06-group-meeting-5/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://127.0.0.1:4321/playground/06-group-meeting-5/</guid>
+      <guid>http://brownbiostats.github.io/playground/06-group-meeting-5/</guid>
       <description>&lt;!-- BLOGDOWN-HEAD --&gt;
 
 
@@ -85,10 +85,10 @@ Preparation for Meeting
     
     <item>
       <title>Group Meeting 4</title>
-      <link>http://127.0.0.1:4321/playground/05-group-meeting-4/</link>
+      <link>http://brownbiostats.github.io/playground/05-group-meeting-4/</link>
       <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://127.0.0.1:4321/playground/05-group-meeting-4/</guid>
+      <guid>http://brownbiostats.github.io/playground/05-group-meeting-4/</guid>
       <description>&lt;!-- BLOGDOWN-HEAD --&gt;
 
 
@@ -116,10 +116,10 @@ Preparation for Meeting
     
     <item>
       <title>Group Meeting 3</title>
-      <link>http://127.0.0.1:4321/playground/04-group-meeting-3/</link>
+      <link>http://brownbiostats.github.io/playground/04-group-meeting-3/</link>
       <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://127.0.0.1:4321/playground/04-group-meeting-3/</guid>
+      <guid>http://brownbiostats.github.io/playground/04-group-meeting-3/</guid>
       <description>&lt;!-- BLOGDOWN-HEAD --&gt;
 
 
@@ -155,10 +155,10 @@ Preparation for Meeting
     
     <item>
       <title>Group Meeting 2</title>
-      <link>http://127.0.0.1:4321/playground/03-group-meeting-2/</link>
+      <link>http://brownbiostats.github.io/playground/03-group-meeting-2/</link>
       <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://127.0.0.1:4321/playground/03-group-meeting-2/</guid>
+      <guid>http://brownbiostats.github.io/playground/03-group-meeting-2/</guid>
       <description>&lt;!-- BLOGDOWN-HEAD --&gt;
 
 
@@ -221,10 +221,10 @@ Preparation for Meeting
     
     <item>
       <title>The Schedule</title>
-      <link>http://127.0.0.1:4321/playground/the-schedule/</link>
+      <link>http://brownbiostats.github.io/playground/the-schedule/</link>
       <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://127.0.0.1:4321/playground/the-schedule/</guid>
+      <guid>http://brownbiostats.github.io/playground/the-schedule/</guid>
       <description>&lt;!-- BLOGDOWN-HEAD --&gt;
 
 
@@ -241,10 +241,10 @@ Preparation for Meeting
     
     <item>
       <title>Group Meeting 1</title>
-      <link>http://127.0.0.1:4321/playground/02-group-meeting-1/</link>
+      <link>http://brownbiostats.github.io/playground/02-group-meeting-1/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://127.0.0.1:4321/playground/02-group-meeting-1/</guid>
+      <guid>http://brownbiostats.github.io/playground/02-group-meeting-1/</guid>
       <description>&lt;!-- BLOGDOWN-HEAD --&gt;
 
 
@@ -276,10 +276,10 @@ Preparation for Meeting
     
     <item>
       <title>The Schedule</title>
-      <link>http://127.0.0.1:4321/playground/the-schedule/</link>
+      <link>http://brownbiostats.github.io/playground/the-schedule/</link>
       <pubDate>Tue, 28 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://127.0.0.1:4321/playground/the-schedule/</guid>
+      <guid>http://brownbiostats.github.io/playground/the-schedule/</guid>
       <description>&lt;!-- BLOGDOWN-HEAD --&gt;
 
 
@@ -333,10 +333,10 @@ Preparation for Meeting
     
     <item>
       <title>The &#34;Playground section&#34;</title>
-      <link>http://127.0.0.1:4321/playground/02-playground/</link>
+      <link>http://brownbiostats.github.io/playground/02-playground/</link>
       <pubDate>Sat, 14 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://127.0.0.1:4321/playground/02-playground/</guid>
+      <guid>http://brownbiostats.github.io/playground/02-playground/</guid>
       <description>&lt;p&gt;Here you can see the &amp;ldquo;playground&amp;rdquo;-section.
 It is used for less important content, wich isnt updated regulary and must not be in a strict structure.
 The special thing of this section is the fact, that every article is fully viewable and every article is on the same page (e.g. at &lt;code&gt;/playground/&lt;/code&gt;).&lt;/p&gt;
@@ -345,10 +345,10 @@ The special thing of this section is the fact, that every article is fully viewa
     
     <item>
       <title>The &#34;Playground section&#34;</title>
-      <link>http://127.0.0.1:4321/playground/01-playground/</link>
+      <link>http://brownbiostats.github.io/playground/01-playground/</link>
       <pubDate>Wed, 04 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://127.0.0.1:4321/playground/01-playground/</guid>
+      <guid>http://brownbiostats.github.io/playground/01-playground/</guid>
       <description>&lt;p&gt;Here you can see the &amp;ldquo;playground&amp;rdquo;-section.
 It is used for less important content, wich isnt updated regulary and must not be in a strict structure.
 The special thing of this section is the fact, that every article is fully viewable and every article is on the same page (e.g. at &lt;code&gt;/playground/&lt;/code&gt;).&lt;/p&gt;
@@ -357,10 +357,10 @@ The special thing of this section is the fact, that every article is fully viewa
     
     <item>
       <title>The &#34;Playground section&#34;</title>
-      <link>http://127.0.0.1:4321/playground/03-playground/</link>
+      <link>http://brownbiostats.github.io/playground/03-playground/</link>
       <pubDate>Wed, 04 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://127.0.0.1:4321/playground/03-playground/</guid>
+      <guid>http://brownbiostats.github.io/playground/03-playground/</guid>
       <description>&lt;p&gt;Here you can see the &amp;ldquo;playground&amp;rdquo;-section.
 It is used for less important content, wich isnt updated regulary and must not be in a strict structure.
 The special thing of this section is the fact, that every article is fully viewable and every article is on the same page (e.g. at &lt;code&gt;/playground/&lt;/code&gt;).&lt;/p&gt;
