@@ -1,0 +1,26 @@
+---
+title: Group Meeting 1
+author: Adam J Sullivan
+date: '2017-03-01'
+slug: 02-group-meeting-1
+description: "Introduction to Meetings and Group"
+keywords: Keyword
+---
+
+
+#  Introduction to Meetings and Group
+
+## Format
+
+
+This is the first meeting. We will meet as a large group and discuss the format for this time. During this time we will consider:
+
+- What is a thesis/project?
+- What we will do through the rest of the meetings.
+- Address any and all questions regarding thesis
+ 
+
+## Group Discussion
+
+The rest of the time available will be informal discussions. Student's can ask about the upcoming semesters, information on courses, etc...
+

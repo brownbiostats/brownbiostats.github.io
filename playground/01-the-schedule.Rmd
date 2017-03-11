@@ -1,0 +1,59 @@
+---
+title: The Schedule
+author: Adam J Sullivan
+date: '2017-02-28'
+slug: the-schedule
+description: "The Schedule"
+keywords: Keyword
+---
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(cache=FALSE, dev='pdf')
+sem1 <- as.Date("2017-03-01")
+sem2 <- as.Date("2017-03-08")
+# fri <- as.Date("2016-01-08")
+
+advdate <- function(obj, adv, week) {
+ tmon <- obj + 7*(week-1)
+ tfri <- obj + 7 + 7*(week-1)
+ tmon <- format(tmon, format="%m/%d/%Y")
+ tfri <- format(tfri, format="%m/%d/%Y")
+ zadv <- sprintf("%02d", adv)
+ tmp <- paste("Group Meeting ",zadv,sep='',", ", tmon," or ",tfri)
+ return(tmp)
+}
+
+advdate1 <- function(obj, adv, week) {
+ tmon <- obj + 7*(week-1)
+ tfri <- obj + 7 + 7*(week-1)
+ tmon <- format(tmon, format="%m/%d/%Y")
+ tfri <- format(tfri, format="%m/%d/%Y")
+ zadv <- sprintf("%02d", adv)
+ tmp <- paste("Group Meeting ",zadv,sep='',", ", tmon)
+ return(tmp)
+}
+```
+
+
+
+
+
+
+--------------------------------------
+Date                                                  Topic
+----------------------------------------------------- -----------------
+`r advdate1(sem1, 1, 1)`                              Introduction to Meetings and Group
+
+`r advdate(sem2, 2, 2)`                               Topics in Biostatistics, Health Data Science or Public Health.
+
+`r advdate1(sem2, 3,5)`                               Large Group Meeting with Other Students
+
+`r advdate(sem2, 4,7)`                                Report on an interview with a researcher in area of interest.
+
+`r advdate(sem1, 5,9)`                                What is a Thesis/Project and How do you find the right advisor?
+
+`r advdate(sem1, 6, 11)`                              Preparing your Thesis Proposal
+
+----------------------------------------

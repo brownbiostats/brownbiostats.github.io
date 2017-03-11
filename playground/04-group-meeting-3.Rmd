@@ -1,0 +1,11 @@
+---
+title: Group Meeting 3
+author: Adam J Sullivan
+date: '2017-04-05'
+slug: 04-group-meeting-3
+description: "Large Group Meeting with Other Students"
+keywords: Keyword
+---
+
+<h1>Large Group Meeting with Other Students</h1><h3> Format</h3><br><br><h3>Format</h3>During this session students will get a chance to talk with 1-2 students who are currently engaged in their own thesis/project work. This will give students a chance to discuss selecting advisors, how to set up meetings, tips current students wished they had known before starting their thesis, etc...<hr><h3>Group Discussion</h3><br>The last half of this session will be engaged in discussing the courses that they wish to take for their final year.  Students will have the opportunity to discuss with their advisor and former students about these courses.  Students then will each identify a different faculty member to interview. <br><h3> Preparation for Meeting</h3>Students need to come prepared with at least one question to ask the current students about projects and thesis.
+

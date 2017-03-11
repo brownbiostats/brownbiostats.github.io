@@ -1,0 +1,13 @@
+---
+title: Group Meeting 5
+author: Adam J Sullivan
+date: '2017-04-26'
+slug: 06-group-meeting-5
+description: "What is a Thesis/Project and How do you find the right advisor?"
+keywords: Keyword
+---
+
+
+<h1> What is a Thesis/Project and How do you find the right advisor?</h1><br><br><h3> Format</h3><br>The format of this session is a group discussion<h3> Group Discussion</h3><br>The purpose of this discussion is to begin thinking further about a thesis or project that students may want to work on. In previous meetings they have learned from previous students and even interviewed faculty members. This is their chance to discuss expectations of the Department's thesis/project and to begin to figure out who they may want to work with. <br><h3> Preparation for Meeting</h3> <br>Students will read chapters 1-2 from [Mauch and Namgi](http://www.emu.edu.tr/aelci/courses/graduate/guide_to_the_successful_thesis_and_dissertation.pdf). 
+
+

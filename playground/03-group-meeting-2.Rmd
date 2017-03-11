@@ -1,0 +1,23 @@
+---
+title: Group Meeting 2
+author: Adam J Sullivan
+date: '2017-03-15'
+slug: 03-group-meeting-2
+description: "Topics in Biostatistics, Health Data Science or Public Health."
+keywords: Keyword
+---
+
+
+<h1> Topics in Biostatistics, Health Data Science or Public Health.</h1><br><br><h3> Format</h3> <br>This session will be the first formal presentation. Students will discuss topics in Biostatistics, Health Data Science or Public Health. Each student will focus on an individual topic which will is of interest to them. <br>The session will consist of brief presentations followed by group discussion. Each student will give a **5 minute** presentation using **5-6** slides to aid in their presentation. This will include a brief overview of their topic of interest, 2 faculty members who currently work on this area of interest and any organizations that are involved in this area of research as well.<br>Student's will hold questions and comments until the end of each presentation and then a group discussion will take place. <br><h3>Exploring Biostatistics, Health Data Science or Public Health Further in Depth.</h3><br><ol><li> Biostatistics, Health Data Science or Public Health topics</li><ul><li> Students will present on one or more topics they are possibly interested in pursuing. If they do not have any ideas, they can just pick a topic that a professor in the department is working on.</li></ul><li>Faculty Researchers</li><ul><li>Students will highlight 2 faculty members who are conducting research on their topic of interest. At least one of these faculty members should be affiliated with the department of Biostatistics.</li></ul> <li> Organizations</li><ul><li>Students will identify organizations that currently fund or aid in their research topic of interest. An obvious one in many cases is the NIH but there may be other groups within the Government, Private Sector or AMSTAT.</li></ul> </ol><h3> Readings</h3>Students should identify at least 5 appropriate references for their topic and have read these. <br><h3>Preparation for Meeting</h3><br>Students will prepare a 5 minute presentation on topics of individual interest. Each presentation should consist of 5-6 slides and a possible 7th slide to display references. References should be in a [style](http://www.nejm.org/doi/full/10.1056/NEJM199102073240624#t=article) suggested by the New England Journal of Medicine for articles concerning Biomedical Research. 
+
+
+
+
+modalID: 2
+title: Group Meeting 2
+subtitle: Topics in Biostatistics, Health Data Science or Public Health.
+date: 2017-03-15
+img: "2.jpg"
+preview: "2.jpg"
+category: Public Health Research
+description: 
