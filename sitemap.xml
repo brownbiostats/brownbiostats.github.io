@@ -2,197 +2,187 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://brownbiostats.github.io/playground/07-group-meeting-6/</loc>
+    <loc>https://evsynthacademy.github.io/playground/07-group-meeting-6/</loc>
     <lastmod>2017-05-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://brownbiostats.github.io/playground/06-group-meeting-5/</loc>
+    <loc>https://evsynthacademy.github.io/playground/06-group-meeting-5/</loc>
     <lastmod>2017-04-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://brownbiostats.github.io/playground/06-group-meeting-5/</loc>
-    <lastmod>2017-04-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://brownbiostats.github.io/playground/05-group-meeting-4/</loc>
+    <loc>https://evsynthacademy.github.io/playground/05-group-meeting-4/</loc>
     <lastmod>2017-04-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://brownbiostats.github.io/playground/04-group-meeting-3/</loc>
+    <loc>https://evsynthacademy.github.io/playground/04-group-meeting-3/</loc>
     <lastmod>2017-04-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://brownbiostats.github.io/playground/03-group-meeting-2/</loc>
+    <loc>https://evsynthacademy.github.io/playground/03-group-meeting-2/</loc>
     <lastmod>2017-03-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://brownbiostats.github.io/playground/03-group-meeting-2/</loc>
-    <lastmod>2017-03-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://brownbiostats.github.io/sessions/try/</loc>
+    <loc>https://evsynthacademy.github.io/sessions/try/</loc>
     <lastmod>2017-03-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://brownbiostats.github.io/playground/the-schedule/</loc>
+    <loc>https://evsynthacademy.github.io/playground/the-schedule/</loc>
     <lastmod>2017-03-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://brownbiostats.github.io/playground/02-group-meeting-1/</loc>
+    <loc>https://evsynthacademy.github.io/playground/02-group-meeting-1/</loc>
     <lastmod>2017-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://brownbiostats.github.io/playground/the-schedule/</loc>
+    <loc>https://evsynthacademy.github.io/playground/the-schedule/</loc>
     <lastmod>2017-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://brownbiostats.github.io/playground/02-playground/</loc>
+    <loc>https://evsynthacademy.github.io/playground/02-playground/</loc>
     <lastmod>2016-05-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://brownbiostats.github.io/about/</loc>
+    <loc>https://evsynthacademy.github.io/about/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://brownbiostats.github.io/playground/01-playground/</loc>
+    <loc>https://evsynthacademy.github.io/playground/01-playground/</loc>
     <lastmod>2016-05-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://brownbiostats.github.io/playground/03-playground/</loc>
+    <loc>https://evsynthacademy.github.io/playground/03-playground/</loc>
     <lastmod>2016-05-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://brownbiostats.github.io/sessions/migrate-from-jekyll/</loc>
+    <loc>https://evsynthacademy.github.io/sessions/migrate-from-jekyll/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://brownbiostats.github.io/sessions/linked-post/</loc>
+    <loc>https://evsynthacademy.github.io/sessions/linked-post/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://brownbiostats.github.io/sessions/go-is-for-lovers/</loc>
+    <loc>https://evsynthacademy.github.io/sessions/go-is-for-lovers/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://brownbiostats.github.io/sessions/hugo-is-for-lovers/</loc>
+    <loc>https://evsynthacademy.github.io/sessions/hugo-is-for-lovers/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://brownbiostats.github.io/sessions/creating-a-new-theme/</loc>
+    <loc>https://evsynthacademy.github.io/sessions/creating-a-new-theme/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://brownbiostats.github.io/</loc>
+    <loc>https://evsynthacademy.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://evsynthacademy.github.io/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://evsynthacademy.github.io/</loc>
     <lastmod>2017-05-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://brownbiostats.github.io/categories/</loc>
-    <priority>0</priority>
+    <loc>https://evsynthacademy.github.io/faq/</loc>
   </url>
   
   <url>
-    <loc>https://brownbiostats.github.io/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://brownbiostats.github.io/faq/</loc>
-  </url>
-  
-  <url>
-    <loc>https://brownbiostats.github.io/tags/go/</loc>
+    <loc>https://evsynthacademy.github.io/tags/go/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://brownbiostats.github.io/tags/golang/</loc>
+    <loc>https://evsynthacademy.github.io/tags/golang/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://brownbiostats.github.io/tags/hugo/</loc>
+    <loc>https://evsynthacademy.github.io/tags/hugo/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://brownbiostats.github.io/tags/ipsum/</loc>
+    <loc>https://evsynthacademy.github.io/tags/ipsum/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://brownbiostats.github.io/categories/lorem/</loc>
+    <loc>https://evsynthacademy.github.io/categories/lorem/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://brownbiostats.github.io/playground/</loc>
+    <loc>https://evsynthacademy.github.io/playground/</loc>
     <lastmod>2017-05-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://brownbiostats.github.io/tags/programming/</loc>
+    <loc>https://evsynthacademy.github.io/tags/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://brownbiostats.github.io/categories/programming/</loc>
+    <loc>https://evsynthacademy.github.io/categories/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://brownbiostats.github.io/categories/pseudo/</loc>
+    <loc>https://evsynthacademy.github.io/categories/pseudo/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://brownbiostats.github.io/sessions/</loc>
+    <loc>https://evsynthacademy.github.io/sessions/</loc>
     <lastmod>2017-03-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://brownbiostats.github.io/categories/starting/</loc>
+    <loc>https://evsynthacademy.github.io/categories/starting/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://brownbiostats.github.io/tags/</loc>
+    <loc>https://evsynthacademy.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://brownbiostats.github.io/tags/theme/</loc>
+    <loc>https://evsynthacademy.github.io/tags/theme/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
